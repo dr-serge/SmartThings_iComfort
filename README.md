@@ -10,5 +10,3 @@ SmartThings installation instructions:
 3) Load contents of <a href="https://raw.githubusercontent.com/copy-ninja/SmartThings_iComfort/master/iComfort.Thermostat.SmartDevice.groovy">Lennox iComfort Thermostat</a> in SmartDevices section. From IDE, navigate to <a href="https://graph.api.smartthings.com/ide/device/create#from-code">My Device Type > + New SmartDevice > From Code</a>.  Click Save. Click Publish "For Me"
 
 4) In your mobile app, tap the "+", go to "My Apps", furnish your log in details and pick your gateway brand, and a list of devices will be available for you to pick
-
-[![](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=jasonmok83%40gmail%2ecom&lc=US&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted)
